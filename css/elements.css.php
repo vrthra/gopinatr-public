@@ -1,3 +1,6 @@
+<?
+header('Content-type: text/css');
+?>
 div#content {
   width: auto;
   float: left;
