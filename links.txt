@@ -1,0 +1,9 @@
+http://catalog.oregonstate.edu/ChapterDetail.aspx?key=148	Calendar
+http://oregonstate.edu/international/atosu/resources/housing	Housing
+http://onid.oregonstate.edu	onid
+https://webmail.oregonstate.edu/	mail
+http://oregonstate.edu/groups/india/news.php	ISA
+http://oregonstate.edu/students/onlineservices/	Online
+https://bewell.oregonstate.edu/portal/jsp/index.jsp	Medical
+http://blogs.oregonstate.edu/blue/	Blue
+http://www.udeps.com/Internships1.php	Internships

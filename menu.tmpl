@@ -1,0 +1,16 @@
+     <div id="menu" class="menustyle">&nbsp;
+<?
+$links = array(
+  "Home" =>"/~gopinatr/",
+  "Resume" => "resume.php",
+  "Projects" => "http://code.google.com/u/blufox/",
+  "Publications" => "publications.php",
+  "Identity" => "identity.php",
+  "Contact" => "contact.php",
+  "Style" => "style.php");
+foreach ($links as $k => $v) {
+      echo("      <a href='".$v."' class='menustyle'>".$k."</a> &nbsp;&nbsp;&nbsp;\n");
+}
+?>
+     </div>
+
